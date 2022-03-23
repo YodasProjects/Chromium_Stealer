@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\obj\Release\ChromeRecovery.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\obj\Release\ChromeRecovery.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\bin\Release\ChromeRecovery.exe.config
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\bin\Release\ChromeRecovery.exe
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\bin\Release\ChromeRecovery.pdb
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\obj\Release\ChromeRecovery.exe
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\obj\Release\ChromeRecovery.pdb

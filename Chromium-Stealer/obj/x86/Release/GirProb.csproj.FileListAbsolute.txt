@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\obj\x86\Release\GirProb.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\obj\x86\Release\GirProb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\bin\Release\WindowsApplication.exe.config
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\bin\Release\WindowsApplication.exe
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\bin\Release\WindowsApplication.pdb
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\obj\x86\Release\WindowsApplication.exe
+C:\Users\Administrator\Desktop\Chrome-Password-Recovery-master\obj\x86\Release\WindowsApplication.pdb
+C:\Users\Administrator\Desktop\random bs\Chromium-Stealer\bin\Release\WindowsApplication.exe.config
+C:\Users\Administrator\Desktop\random bs\Chromium-Stealer\bin\Release\WindowsApplication.exe
+C:\Users\Administrator\Desktop\random bs\Chromium-Stealer\bin\Release\WindowsApplication.pdb
+C:\Users\Administrator\Desktop\random bs\Chromium-Stealer\obj\x86\Release\GirProb.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\random bs\Chromium-Stealer\obj\x86\Release\GirProb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\random bs\Chromium-Stealer\obj\x86\Release\WindowsApplication.exe
+C:\Users\Administrator\Desktop\random bs\Chromium-Stealer\obj\x86\Release\WindowsApplication.pdb
